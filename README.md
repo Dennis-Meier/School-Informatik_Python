@@ -1,5 +1,5 @@
 # School - Informatik | Python - basics
-This is a collection of stuff I did in class for my Comutersience(Informatik) class
+This is a collection of stuff I did for my Comutersience(Informatik) class
 
 ## Content
 
